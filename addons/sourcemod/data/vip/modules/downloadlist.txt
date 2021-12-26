@@ -1,0 +1,30 @@
+// Ravenpool T
+
+models/player/vad36fortnite/ravenpool.mdl
+models/player/vad36fortnite/ravenpool.phy
+models/player/vad36fortnite/ravenpool.sw.vtx
+models/player/vad36fortnite/ravenpool.vvd
+models/player/vad36fortnite/ravenpool.dx80.vtx
+models/player/vad36fortnite/ravenpool.dx90.vtx
+materials/models/player/vad36fortnite/ravenpool/T_M_Raven_Quill_Donut_Head_D.vmt
+materials/models/player/vad36fortnite/ravenpool/T_M_Raven_Quill_Donut_Head_D.vtf
+materials/models/player/vad36fortnite/ravenpool/T_M_Raven_Quill_Donut_Head_E.vtf
+materials/models/player/vad36fortnite/ravenpool/T_M_Raven_Quill_Donut_Head_N.vtf
+materials/models/player/vad36fortnite/ravenpool/T_M_Raven_Quill_Donut_Head_S.vtf
+materials/models/player/vad36fortnite/ravenpool/T_M_Raven_Quill_Donut_Body_D.vmt
+materials/models/player/vad36fortnite/ravenpool/T_M_Raven_Quill_Donut_Body_D.vtf
+materials/models/player/vad36fortnite/ravenpool/T_M_Raven_Quill_Donut_Body_N.vtf
+materials/models/player/vad36fortnite/ravenpool/T_M_Raven_Quill_Donut_Body_S.vtf
+
+// Nemesis CT
+
+models/player/vad36Cerberus_Soldiers/nemesis.vvd
+models/player/vad36Cerberus_Soldiers/nemesis.dx80.vtx
+models/player/vad36Cerberus_Soldiers/nemesis.dx90.vtx
+models/player/vad36Cerberus_Soldiers/nemesis.mdl
+models/player/vad36Cerberus_Soldiers/nemesis.phy
+models/player/vad36Cerberus_Soldiers/nemesis.sw.vtx
+materials/models/player/vad36Cerberus_Soldiers/HMF_ARM_CRBb_Norm.vtf
+materials/models/player/vad36Cerberus_Soldiers/HMF_ARM_CRBb_Blend.vtf
+materials/models/player/vad36Cerberus_Soldiers/HMF_ARM_CRBb_Diff.vmt
+materials/models/player/vad36Cerberus_Soldiers/HMF_ARM_CRBb_Diff.vtf

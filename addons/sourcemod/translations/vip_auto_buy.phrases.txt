@@ -1,0 +1,49 @@
+"Phrases"
+{
+    "MenuTitle_Settings"
+    {
+        "en"            "Auto buy settings"
+        "ru"            "Настройки автозакупки"
+    }
+	"MenuTitle_Categories"
+    {
+        "en"            "Category"
+        "ru"            "Категория"
+    }
+	"Menu_T"
+    {
+        "en"            "Terrorists"
+        "ru"            "Террористы"
+    }
+	"Menu_CT"
+    {
+        "en"            "Counter-Terrorists"
+        "ru"            "Контр-Террористы"
+    }
+	"Menu_NoWeapons"
+    {
+        "en"            "No guns"
+        "ru"            "Нет оружий"
+    }
+	"Menu_Enabled"
+    {
+        "en"            "Enabled"
+        "ru"            "Вкл."
+    }
+	"Menu_Disabled"
+    {
+        "en"            "Disabled"
+        "ru"            "Выкл."
+    }
+	"Menu_Disable"
+    {
+        "en"            "Disable"
+        "ru"            "Выключить"
+    }
+	"Menu_DisableAll"
+    {
+        "en"            "Disable all"
+        "ru"            "Выключить все"
+    }
+}
+

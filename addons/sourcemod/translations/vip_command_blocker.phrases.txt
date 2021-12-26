@@ -1,0 +1,32 @@
+"Phrases"
+{
+	"CHAT_BlockVIP"
+	{
+		"en" "[VIP] To use this command you must have a VIP status!"
+		"ru" "[VIP] Для использования этой команды, у Вас должен быть VIP статус!"
+	}
+
+	"RELOAD_Config"
+	{
+		"en" "[VIP] Config Command Blocker successfully rebooted!"
+		"ru" "[VIP] Конфиг Command Blocker успешно перезагружен!"
+	}
+
+	"MENU_Title"
+	{
+		"en" "Access restricted!"
+		"ru" "Доступ ограничен!"
+	}
+
+	"MENU_Text"
+	{
+		"en" "To use this command you must have a VIP status!"
+		"ru" "Для использования этой команды, \nу Вас должен быть VIP статус!"
+	}
+
+	"MENU_Exit"
+	{
+		"en" "Exit"
+		"ru" "Выход"
+	}
+}

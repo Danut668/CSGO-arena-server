@@ -1,0 +1,22 @@
+"Skins"
+{
+	"vip_t"
+	{
+		"name"		"Ravenpool"
+		"model"		"models/player/vad36fortnite/ravenpool.mdl"
+		"team"		"t"
+	}
+	"vip_ct"
+	{
+		"name"		"Nemesis"
+		"model"		"models/player/vad36Cerberus_Soldiers/nemesis.mdl"
+		"team"		"ct"
+	}
+	//"vip_all"
+	//{
+	//	"name"		"Ravenpool"
+	//	"model"		"models/player/vad36fortnite/ravenpool.mdl"
+	//	"team"		"all"
+	//}
+	
+}

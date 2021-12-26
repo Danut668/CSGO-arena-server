@@ -1,0 +1,44 @@
+"Phrases"
+{
+	"Zero_Score"
+	{
+		"en"    "[VIP RS] Your score is already 0"
+        "ru"	"[VIP RS] Ваш счет уже равен нулю."
+        "ua"	"[VIP RS] Ваш рахунок вже дорівнює нулю."
+	}
+
+	"Zero_Death"
+	{
+		"en"	"[VIP RD] Your deaths are already 0"
+        "ru"	"[VIP RD] Ваш показатель смертей уже равен нулю."
+        "ua"	"[VIP RD] Ваш показник смертей вже дорівнює нулю."
+	}
+	
+	"Success_Score"
+	{
+		"en"	"[VIP RS] You have successfully reset your score!"
+        "ru"	"[VIP RS] Вы успешно сбросили ваш счет!"
+        "ua"	"[VIP RS] Ви успішно скинули ваш рахунок!"
+	}
+	
+	"Success_Death"
+	{
+		"en"	"[VIP RD] You successfully dropped your deaths!"
+        "ru"	"[VIP RD] Вы успешно сбросили ваши смерти!"
+        "ua"	"[VIP RD] Ви успішно скинули ваші смерті!"
+	}
+	
+	"Access_VIP"
+	{
+		"en"	"[VIP RS/D] You are not a VIP player!"
+        "ru"	"[VIP RS/D] Вы не являетесь VIP игроком!"
+        "ua"	"[VIP RS/D] Ви не є VIP гравцем!"
+	}
+	
+	"Access_Function"
+	{
+		"en"	"[VIP RS/D] You are not authorized to use this feature!"
+        "ru"	"[VIP RS/D] У вас нет прав на использование данной функции!"
+        "ua"    "[VIP RS/D] У вас немає прав на використання даної функції!"
+	}
+}

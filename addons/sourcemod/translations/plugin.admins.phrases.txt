@@ -1,0 +1,110 @@
+﻿"Phrases"
+{
+    "ChatVoteLike"
+    {
+        "en"        "I-ai dat like Admin-ului cu succes [+]"
+        "ru"        "Вы успешно проголосовали и поставили [+]"
+    }
+
+    "ChatVoteDis"
+    {
+        "en"        "I-ai dat dislike Admin-ului cu succes [-]"
+        "ru"        "Вы успешно проголосовали и поставили [-]"
+    }
+
+    "MainMenu_Title"
+    {
+        "en"        "Lista cu admini online"
+        "ru"        "Список онлайн администраторов:\n \n"
+    }
+
+    "ChatListIsEmpty"
+    {
+        "en"        "Nu sunt admini online."
+        "ru"        "Никого из администраторов нету."
+    }
+
+    "ChatPlayerIsNotInGame"
+    {
+        "en"        "Jucatorul s-a deconectat."
+        "ru"        "Игрок покинул сервер."
+    }
+
+    "DescriptionMenu"
+    {
+        "#format"    "{1:N}"
+        "en"         "Администратор - {1}"
+        "ru"         "Администратор - {1}"
+    }
+
+    "DescriptionMenu_Imm"
+    {
+        "#format"    "{1:N},{2:i}"
+        "en"         "Администратор - {1}\nИммунитет: {2}"
+        "ru"         "Администратор - {1}\nИммунитет: {2}"
+    }
+
+    "DescriptionMenu_Group"
+    {
+        "#format"    "{1:s},{2:i}"
+        "en"         "Nume: {1} | ID: {2}"
+        "ru"         "Группа: {1} | ID: {2}"
+    }
+
+    "DescriptionMenu_Reputation"
+    {
+        "en"         "Reputatia Adminului"
+        "ru"         "Репутация Администратора"
+    }
+
+    "Reputation_Menu"
+    {
+        "#format"    "{1:N},{2:i},{3:i}"
+        "en"         "{1} - [+{2} / -{3}]"
+        "ru"         "{1} - [+{2} / -{3}]"
+    }
+	
+	"DescriptionMenu_SendMessage"
+	{
+		"en"		 "Trimite mesaj"
+		"ru"		 "Отправить сообщение"
+	}
+		
+	"ChatCancel"
+    {
+        "en"         "{RED} Procesul a fost anulat cu succes!"
+        "ru"         "{RED}Операция была успешно отменена!"
+    }
+	
+	"ChatLongText"
+    {
+        "en"         "{RED}Textul tau e prea lung!"
+        "ru"         "{RED}Упс... Слишком длинный контакт."
+    }
+	
+	"ChatSendMessage"
+    {
+		"#format"    "{1:N},{2:s}"
+        "en"         "{RED}Ai primit un mesaj de la {1}\nMesaj: {2}"
+        "ru"         "{RED}ВАМ ОТПРАВЛЕНО СООБЩЕНИЕ ОТ {1}\nСодержимое: {2}"
+    }
+	
+	"ChatGotMessage"
+    {
+		"#format"    "{1:N}"
+        "en"         "{RED}Admin {1} a primit cu succes mesajul tau!"
+        "ru"         "{RED}Администратор {1}, успешно принял ваше сообщение!"
+    }
+	
+	"ContactHasChanged"
+    {
+        "en"         "{RED}Contacul a fost schimbat cu succes!"
+        "ru"         "{RED}Контакт был успешно изменен!"
+    }
+	
+	"ContactChangeFailure"
+	{
+		"en"		 "{RED}You have a problem with your DB, contact hasn't changed!"
+		"ru"		 "{RED}Возникла проблема с бд, контакт не изменен!"
+	}
+}

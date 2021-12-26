@@ -1,0 +1,123 @@
+"Phrases"
+{
+	"ALL"
+	{
+		"ru"		"Все"
+		"en"		"All"
+		"de"		"Alle"
+		"fi"		"Kaikki"
+	}
+
+	"TEAM_T"
+	{
+		"ru"		"Террористы"
+		"en"		"Terrorists"
+		"de"		"Terrorists"
+		"fi"		"Terroristit"
+	}
+
+	"TEAM_CT"
+	{
+		"ru"		"Контр-Террористы"
+		"en"		"Counter-Terrorists"
+		"de"		"Counter-Terrorists"
+		"fi"		"Counter-Terroristit"
+	}
+
+	"JOIN_TEAM"
+	{
+		"ru"		"Вы должны находится в команде чтобы выбрать скин!"
+		"en"		"You have to join a team to pick skins!"
+		"de"		"Sie müssen einem Team zu beitreten, um zu skin bestimmen!"
+		"fi"		"Sinun täytyy olla joukkueessa jotta voisit valita skini!"
+	}
+
+	"SKINS"
+	{
+		"ru"		"Скины:"
+		"en"		"Skins:"
+		"de"		"Skins:"
+		"fi"		"Skinit:"
+	}
+
+	"DISABLE_SKIN"
+	{
+		"ru"		"Отключить скин"
+		"en"		"Disable skin"
+		"de"		"Skin deaktivieren"
+		"fi"		"Poista käytöstä skini"
+	}
+
+	"NO_SKINS_AVAILABLE"
+	{
+		"ru"		"Нет доступных скинов!"
+		"en"		"No skins available!"
+		"de"		"Keine verfügbarer Skins!"
+		"fi"		"Ei ole saatavilla skinejä"
+	}
+
+	"INFO"
+	{
+		"ru"		"Информация:"
+		"en"		"Information:"
+		"de"		"Information:"
+		"fi"		"Tiedotus:"
+	}
+
+	"NAME"
+	{
+		"ru"		"Название: "
+		"en"		"Name:"
+		"de"		"Name:"
+		"fi"		"Nimi:"
+	}
+
+	"TEAM"
+	{
+		"ru"		"Команда:"
+		"en"		"Team:"
+		"de"		"Team:"
+		"fi"		"Joukkue:"
+	}
+
+	"DISABLE_PREVIEW"
+	{
+		"ru"		"Выключить превью"
+		"en"		"Disable preview"
+		"de"		"Vorschau aus"
+		"fi"		"Poista käytöstä esikatselu"
+	}
+
+	"ENABLE_PREVIEW"
+	{
+		"ru"		"Включить превью"
+		"en"		"Enable preview"
+		"de"		"Vorschau an"
+		"fi"		"Ota Käyttöön esikatselu"
+	}
+
+	"SET"
+	{
+		"ru"		"Установить"
+		"en"		"Set"
+		"de"		"Anwenden"
+		"fi"		"Aseta"
+	}
+
+	"YOU_SET_SKIN"
+	{
+		"#format"	"{1:s},{2:s}"
+		"ru"		"Вы установили себе скин {1} за команду {2}"
+		"en"		"You've set skin {1} in team {2}"
+		"de"		"Sie haben {1} Skin in das {2} Team einstellen"
+		"fi"		"Olet asettanut Skinin {1} tiimin {2}"
+	}
+	
+	"ERROR"
+	{
+		"ru"		"Ошибка"
+		"en"		"Error"
+		"de"		"Irrtum"
+		"fi"		"Virhe"
+	}
+}

@@ -1,0 +1,5 @@
+// Decal path to .vmt
+materials/decals/concretes/shot1_paint.vmt
+materials/decals/concretes/shot2_paint.vmt
+materials/decals/concretes/shot3_paint.vmt
+materials/decals/concretes/shot4_paint.vmt

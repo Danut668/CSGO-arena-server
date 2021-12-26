@@ -1,0 +1,118 @@
+"Phrases"
+{
+	//Chat Messages
+	//Color list: http://forums.alliedmods.net/showthread.php?t=96831
+	"WelcomeMsg1"
+	{
+		"#format"	"{1:N}"
+		"en"		"{default}Bine ai venit pe server, {darkred}{1}{default}! Distractie placuta la noi pe server!"
+	}
+	
+	//Panel Messages
+	"PanelTitle"
+	{
+		"en"		"Salut!"
+		"pl"		"Witaj!"
+	}
+	
+	"PanelClose"
+	{
+		"en"		"0. Inchide Meniul"
+		"pl"		"0. Zamknij"
+	}
+	
+	"PanelLine1"
+	{
+		"en"		"Bine ai venit pe serverul nostru!"
+		"pl"		"Witaj na naszym serwerze! GL&HF!"
+	}
+	
+	"PanelLine2"
+	{
+		"en"		"Serverul a fost scriptat de Danut#0001"
+		"pl"		"Przykładowa Linia 2"
+	}
+	
+	"PanelLine3"
+	{
+		"en"		"Comenziile de pe server sunt"
+		"pl"		"Przykładowa Linia 3"
+	}
+	
+	"PanelLine4"
+	{
+		"en"		"!mvp - Apare un meniu in care iti alegi mvp-ul"
+		"pl"		"Przykładowa Linia 4"
+	}
+	
+	"PanelLine5"
+	{
+		"en"		"!shop - Deschide shopul"
+		"pl"		"Przykładowa Linia 5"
+	}
+	
+	"PanelLine6"
+	{
+		"en"		"!vip - deschide meniul de vip(doar daca ai)"
+		"pl"		"Przykładowa Linia 6"
+	}
+	
+	"PanelLine7"
+	{
+		"en"		"!lvl - deschide un meniu cu informatii despre rankul tau"
+		"pl"		"Przykładowa Linia 7"
+	}
+	
+	"PanelLine8"
+	{
+		"en"		"!guns - Deschide un meniu de unde iti poti alege armele cu care sa joci"
+		"pl"		"Przykładowa Linia 8"
+	}
+	
+	"PanelLine9"
+	{
+		"en"		"!ore - Deschide un meniu in care iti poti vedea orele"
+		"pl"		"Przykładowa Linia 9"
+	}
+	
+	"PanelLine10"
+	{
+		"en"		"!ws/!skins/!gloves - Deschide un meniu in care iti poti schimba skinuriile pe arme/cutit/manusi"
+		"pl"		"Przykładowa Linia 10"
+	}
+	
+	"PanelLine11"
+	{
+		"en"		"!agents - Iti poti schimba agentul"
+		"pl"		"Przykładowa Linia 11"
+	}
+	
+	"PanelLine12"
+	{
+		"en"		"!goldtag - Iti permite sa schimbi tagul daca ai "ARENA.REVERSE.RO in nume"
+		"pl"		"Przykładowa Linia 12"
+	}
+	
+	"PanelLine13"
+	{
+		"en"		"!admins - Iti arata adminii care sunt online pe server"
+		"pl"		"Przykładowa Linia 13"
+	}
+	
+	"PanelLine14"
+	{
+		"en"		"Example Line 14"
+		"pl"		"Przykładowa Linia 14"
+	}
+	
+	"PanelLine15"
+	{
+		"en"		"Example Line 15"
+		"pl"		"Przykładowa Linia 15"
+	}
+	
+	"PanelLine16"
+	{
+		"en"		"Example Line 16"
+		"pl"		"Przykładowa Linia 16"
+	}

@@ -1,0 +1,8 @@
+"DecalModulate"
+{
+	"$basetexture" "decals/concretes/shot4_paint"
+	"$bumpmap" "decals/concretes/shot4norm_paint"
+        "$envmap" "env_cubemap"
+	"$decalscale" 0.14
+	"$decalDynamicScale" 1
+}

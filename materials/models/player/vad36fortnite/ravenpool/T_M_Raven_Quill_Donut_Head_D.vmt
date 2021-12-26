@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	$basetexture			"models\player/vad36fortnite/ravenpool/T_M_Raven_Quill_Donut_Head_D"
+	
+	$envmap env_cubemap
+	$envmaptint "[ .01 .01 .02 ]"
+	$normalmapalphaenvmapmask 1
+
+	$bumpmap				"models\player/vad36fortnite/ravenpool/T_M_Raven_Quill_Donut_Head_N"
+	
+        "$detail" "models\player\vad36fortnite\ravenpool/T_M_Raven_Quill_Donut_Head_E"
+       	"$detailscale" "1"
+	"$detailblendfactor" "1"
+	"$detailblendmode" "6"
+        
+        $phongexponenttexture	"models\player/vad36fortnite/ravenpool/T_M_Raven_Quill_Donut_Head_S"
+	
+ 	$phong 1
+	$phongboost .5 
+	$phongalbedoboost 5
+	$phongtint "[0.7 0.8 1]"
+	
+
+}

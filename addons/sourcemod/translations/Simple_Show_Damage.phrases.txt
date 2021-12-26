@@ -1,0 +1,36 @@
+"Phrases"
+{
+
+    "Health Remaining"
+    {
+        "br"    "Vida Restante:"
+        "en"    "Health Remaining:"
+        "es"    "Salud restante:"
+        "de"    "Verbleibende Gesundheit:"
+        "fr"    "Restant Santé:"
+        "pl"    "Pozostałe zdrowie:"
+        "ru"    "Оставшееся хп:"
+    }
+
+    "Damage Giver"
+    {
+        "br"    "Você fez"
+        "en"    "You did"
+        "es"    "Lo hiciste"
+        "de"    "Du hast es geschafft"
+        "fr"    "Vous avez"
+        "pl"    "Zadałeś"
+        "ru"    "Вы нанесли"
+    }
+
+    "Damage Taker"
+    {
+        "br"    "danos ao"
+        "en"    "damage to"
+        "es"    "daño a"
+        "de"    "schaden"
+        "fr"    "dommages à"
+        "pl"    "obrażeń graczowi"
+        "ru"    "урона по"
+    }
+}

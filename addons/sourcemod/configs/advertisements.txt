@@ -1,0 +1,73 @@
+// Advertisements 2.1
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"		"{darkred}「REVERSE」 {default}Vrei si tu un server ca acesta? Contacteaza-l pe {darkred}Danut#0001 si afla cat costa unul!"
+    }
+
+    "2"
+    {
+        "chat"		"{darkred}「REVERSE」 {default}Serverul nostru de discord este: "
+    }
+
+
+    "3"
+    {
+        "chat"		"{darkred}「REVERSE」 {default}Daca vreti sa cumparati vip contactati-l pe Pingu"
+    }
+
+
+    "4"
+    {
+        "chat"		"{darkred}「REVERSE」 {default}Ownerii serverului sunt {darkred}Pingu"
+    }
+
+
+    "5"
+    {
+        "chat"		"{darkred}「REVERSE」 {default}Vrei sa vezi cum e {grey}VIP-ul{default}? Scrie {darkred}!viptest {default}in chat ca sa primesti {yellow}VIP GOLD {default} pentru 2 ore"
+    }
+
+    "6"
+    {
+        "chat"		"{darkred}「REVERSE」 {default}Suntem in cautare de {green}Helperi{default}, daca vrei sa aplici intra pe serverul nostru de {darkred}Discord"
+    }
+
+    "7"
+    {
+        "chat"		"{darkred}「REVERSE」 {default}Nu uita sa citesti si {grey}Regulamentul Serverului {default}, il poti gasi pe serverul nostru de {darkred}Discord"
+    }
+
+    "8"
+    {
+        "chat"		"{darkred}「REVERSE」 {default}Iti place serverul noastru? Nu uita sa il adaugi la {darkred}favorite{default}."
+    }
+
+    "9"
+    {
+        "chat"		"{darkred}「REVERSE」 {default}Te face cineva slab? Atunci provoaca-l la o {darkred}Confruntare Shaolin {default} si arata-i ca esti mai bun decat el folosind comanda {darkred}!challenge{default}."
+    }
+
+    "10"
+    {
+        "chat"		"{darkred}「REVERSE」 {default}Daca intampinati vreun {darkred}bug pe server{default}, contactati unul dintre {darkred}Owneri {default}cat de repede puteti."
+    }
+}
+

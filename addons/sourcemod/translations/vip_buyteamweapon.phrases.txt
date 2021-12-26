@@ -1,0 +1,16 @@
+"Phrases"
+{
+
+	"BTW_NoMoney"
+	{
+		"ru"	"[VIP] У Вас недостаточно денег для покупки данного оружия!"
+		"en"	"[VIP] You do not have enough money to buy this weapon!"
+	}
+	
+	"BTW_MenuName"
+	{
+		"ru"	"Выберите оружие"
+		"en"	"Choose weapon"
+	}
+
+}

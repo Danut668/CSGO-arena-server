@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"VIP_PLAYERS_ONLINE"
+	{
+		"ru"		"VIP-игроки онлайн"
+		"en"		"VIP-players online"
+		"de"		"VIP-Spieler dreizeit online"
+		"fi"		"VIP-pelaajia onlinessä"
+	}
+
+	"EXPIRES"
+	{
+		"ru"		"Истекает"
+		"en"		"Expires"
+		"de"		"Läuft"
+		"fi"		"Päättyy"
+	}
+}

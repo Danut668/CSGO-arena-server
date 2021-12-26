@@ -1,0 +1,110 @@
+"Phrases"
+{
+	"MainMenuTitle"
+	{
+		"ru"		"Настройки чата"
+		"en"		"Chat settings"
+	}
+
+	"DisableAll"
+	{
+		"ru"		"Выключить все"
+		"en"		"Disable all"
+	}
+
+	"Prefix"
+	{
+		"ru"		"Префикс"
+		"en"		"Prefix"
+	}
+
+	"PrefixColor"
+	{
+		"ru"		"Цвет префикса"
+		"en"		"Prefix color"
+	}
+
+	"NameColor"
+	{
+		"ru"		"Цвет ника"
+		"en"		"Name color"
+	}
+
+	"TextColor"
+	{
+		"ru"		"Цвет текста"
+		"en"		"Text color"
+	}
+
+	"NotChosen"
+	{
+		"ru"		"Не выбрано"
+		"en"		"Not chosen"
+	}
+
+	"NoAccess"
+	{
+		"ru"		"Нет доступа"
+		"en"		"No access"
+	}
+
+	"Disable"
+	{
+		"ru"		"Выключить"
+		"en"		"Disable"
+	}
+
+	"Help"
+	{
+		"ru"		"Помощь"
+		"en"		"Help"
+	}
+
+	"Disabled"
+	{
+		"ru"		"Выключено"
+		"en"		"Disabled"
+	}
+
+	"Selected"
+	{
+		"ru"		"Выбрано"
+		"en"		"Selected"
+	}
+
+	"NoItems"
+	{
+		"ru"		"Нет пунктов"
+		"en"		"No Items"
+	}
+
+	"Set"
+	{
+		"ru"		"Устновлено"
+		"en"		"Set"
+	}
+	
+	"EnterValueInChat"
+	{
+		"ru"		"Введите в чат значение\nи нажмите"
+		"en"		"Type value to chat\nand hit"
+	}
+
+	"Value"
+	{
+		"ru"		"Вы ввели"
+		"en"		"You entered"
+	}
+
+	"Confirm"
+	{
+		"ru"		"Подтвердить"
+		"en"		"Confirm"
+	}
+
+	"Cancel"
+	{
+		"ru"		"Отменить"
+		"en"		"Cancel"
+	}
+}

@@ -1,0 +1,24 @@
+"Phrases"
+{
+	"VIP_ALREADY"
+	{
+		"ru"	"Вы уже являетесь VIP-игроком!"
+		"en"	"You are VIP already!"
+		"fi"	"Olet VIP Jo!
+	}
+
+	"VIP_RENEWAL_IS_NOT_AVAILABLE_YET"
+	{
+		"#format"	"{1:s}"
+		"ru"	"Повторное получение VIP-статуса будет доступно через {1}!"
+		"en"	"VIP-access renewal will be available in {1}!"
+		"fi"	"Pystyt hankkimaan uudelleen vasta kun VIP tulee olemaan saatavilla {1} päästä!"
+	}
+
+	"VIP_RENEWAL_IS_DISABLED"
+	{
+		"ru"	"Повторное получение VIP-статуса запрещено!"
+		"en"	"VIP renewal is disabled!"
+		"fi"	"VIP uusiminen ei ole käytössä!"
+	}
+}

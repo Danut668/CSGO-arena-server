@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"KnifeDamageDisabled"
+	{
+		"en"		"Damage-ul de la cutit este dezactivat in aceasta runda."
+	}
+	"ThisIsNoscopeHintText"
+	{
+		"en"		"<font color='#ff0000'Aceasta runda este de ONLY-NOSCOPE!</font>"
+	}
+	"ThisIsNoscopeChat"
+	{
+		"en"		"{default}Aceasta runda este de {red}ONLY-NOSCOPE!"
+	}
+}

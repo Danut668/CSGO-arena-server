@@ -1,0 +1,137 @@
+"Phrases"
+{
+	"NoOpponent"
+	{
+		"#format"	"{1:i}"
+		"en"		"You are in arena {GREEN}{1} {NORMAL}with {DARK_RED}no opponent."
+	}
+	"NoOpponentHint"
+	{
+		"en"		"<font size='22' color='#FF0000'>You have no opponent.</font>"
+	}
+	"FacingOff"
+	{
+		"#format"	"{1:i},{2:N}"
+		"en"		"You are in arena {GREEN}{1}{NORMAL}, facing off against {PURPLE}{2}{NORMAL}."
+	}
+	"ArenasFull"
+	{
+		"en"		"Sorry, all the arenas are currently {PURPLE}full."
+	}
+	"QueuePosition"
+	{
+		"#format"	"{1:i}"
+		"en"		"You are in position {GREEN}{1} {NORMAL}in the waiting queue."
+	}
+	"WonMessage"
+	{
+		"#format"	"{1:i},{2:.1f},{3:N},{4:i},{5:.1f}"
+		"en"		""
+	}
+	"LossMessage"
+	{
+		"#format"	"{1:i},{2:.1f},{3:N},{4:i},{5:.1f}"
+		"en"		""
+	}
+	"TimeRanOut"
+	{
+		"#format"	"{1:i},{2:.1f}"
+		"en"		""
+	}
+	"MostWins"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"{DARKRED}{1} {NORMAL}a avut cele mai multe winuri {PURPLE}({2}) {NORMAL}in arena 1 pe aceasta harta."
+	}
+	"OpponentLeft"
+	{
+		"en"		"{DARKRED}Oponentul tau a iesit."
+	}
+	"OpponentLeftHint"
+	{
+		"en"		"<font size='22' color='#00FF00'>Oponentul tau a iesit.</font>"
+	}
+	"HideStats"
+	{
+		"en"		"Statisticiile playerilor sunt acum ascunse."
+	}
+	"ShowStats"
+	{
+		"en"		"Statisticiile playerilor sunt acum vizibile."
+	}
+	"AutoSpecOn"
+	{
+		"en"		"Ai activat auto-spectate."
+	}
+	"AutoSpecOff"
+	{
+		"en"		"Ai dezactivatd auto-spectate."
+	}
+	"AutoSpecSwitch"
+	{
+		"#format"		"{1:d}"
+		"en"		"Autoswitching to spectate arena {1}."
+	}
+	"ArenaClanTag"
+	{
+		"#format"	"{1:d}"
+		"en"		"Arena {1}"
+	}
+	"Disabled"
+	{
+		"en"		"dezactivat"
+	}
+	"Enabled"
+	{
+		"en"		"activat"
+	}
+	"WeaponsMenuTitle"
+	{
+		"en"		"Selecteaza-ti preferintele la arme:"
+	}
+	"WeaponsMenuRifle"
+	{
+		"#format"		"{1:s}"
+		"en"		"Rifle: {1}"
+	}
+	"WeaponsMenuPistol"
+	{
+		"#format"		"{1:s}"
+		"en"		"Pistol: {1}"
+	}
+	"WeaponsMenuRoundTypeEnabled"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"		"{1} runde: {2}"
+	}
+	"WeaponsMenuPreferenceTitle"
+	{
+		"en"		"Selecteaza-ti prefelintele la runde:"
+	}
+	"WeaponsMenuPreference"
+	{
+		"#format"		"{1:s}"
+		"en"		"Preferinte: {1} rounds"
+	}
+	"WeaponsMenuPreferenceNone"
+	{
+		"en"		"Preferinte: none"
+	}
+	"WeaponsMenuNoPreference"
+	{
+		"en"		"No preference"
+	}
+	"WeaponsMenuPreferenceChoice"
+	{
+		"#format"		"{1:s}"
+		"en"		"runde de {1}"
+	}
+	"WeaponsMenuSelection"
+	{
+		"en"		"Alegeti arma favorita:"
+	}
+	"PistolMenuTitle"
+	{
+		"en"		"Alegeti pistolul favorit:"
+	}
+}
